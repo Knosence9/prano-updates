@@ -1,8 +1,8 @@
 {
   "app": "Prano",
-  "versionName": "0.1.5",
-  "versionCode": 6,
-  "apkUrl": "https://knosence.github.io/prano-updates/apk/prano-v0.1.5.apk",
-  "releaseNotesUrl": "https://github.com/knosence/Prano/releases/tag/v0.1.5",
-  "publishedAt": "2026-05-11T04:19:18Z"
+  "versionName": "0.1.6",
+  "versionCode": 7,
+  "apkUrl": "https://knosence.github.io/prano-updates/apk/prano-v0.1.6.apk",
+  "releaseNotesUrl": "https://github.com/knosence/Prano/releases/tag/v0.1.6",
+  "publishedAt": "2026-05-11T05:07:07Z"
 }
