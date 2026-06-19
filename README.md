@@ -9,7 +9,7 @@ This repo is retained externally on purpose as Prano's public update-distributio
 It is **not** the canonical source of truth for Vela runtime architecture or unified-root reconstruction planning.
 
 For canonical Vela runtime/cutover truth, use unified-root `Project Vela/`.
-For Prano app implementation truth, use the `Prano/` repo.
+For Prano app implementation truth, use the [`Prano` repo](https://github.com/Knosence9/Prano).
 
 Files:
 - `latest.json` — app-readable update manifest
